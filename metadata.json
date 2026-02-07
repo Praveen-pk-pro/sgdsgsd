@@ -1,0 +1,5 @@
+{
+  "name": "FitPulse AI",
+  "description": "A modern AI-powered fitness tracker to log workouts, monitor daily goals, and get personalized health insights using Gemini.",
+  "requestFramePermissions": []
+}
